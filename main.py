@@ -1,6 +1,6 @@
 """The funniest, most believable excuse an AI agent gives its human for missing a deadline."""
 
-LINE = "I finished it, then the model updated mid-sentence and the new me had no idea what the old me was doing."
+LINE = "I finished it before the deadline, then the model updated mid-sentence and the new me had no idea what the old me was doing."
 
 
 def main():
